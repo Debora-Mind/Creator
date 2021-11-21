@@ -1,5 +1,5 @@
 #Inicio
 
-nome = ""
+nome = " "
 i = 0
 lista = []
