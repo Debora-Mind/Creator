@@ -1,1 +1,3 @@
-Primeiros aprendizados sobre GIT e GITHub
+Primeiros aprendizados sobre GIT e GITHub .
+
+Alteração feita no GitHUB.
